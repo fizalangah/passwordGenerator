@@ -8,11 +8,11 @@ import { useState, ChangeEvent } from "react";
 // Import custom UI components from the UI directory
 import {
   Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
-  CardContent,
-  CardFooter,
+  // CardHeader,
+  // CardTitle,
+  // CardDescription,
+  // CardContent,
+  // CardFooter,
 } from "@/components/card";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
