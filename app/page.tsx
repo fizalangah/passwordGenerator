@@ -164,7 +164,7 @@ export default function GeneratePassword() {
                   readOnly
                   className="flex-1"
                 />
-                <Button type="button" onClick={copyToClipboard} className="bg-black text-white hover:text-black">
+                <Button type="button" onClick={copyToClipboard} className="bg-black text-white hover:text-black hover:border-black">
                   Copy to Clipboard
                 </Button>
               </div>
